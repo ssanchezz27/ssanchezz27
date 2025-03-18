@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Samuel Vivas  
-###  💻 Ingeniería de Sistemas | 🛡️ Ciberseguridad | ☁️ Cloud Computing  
+###  👨‍💻 Ingeniería de Sistemas | 🛡️ Ciberseguridad | ☁️ Cloud Computing  
 
 💻 Apasionado por la ciberseguridad y computación en la nube.   
 📚 En proceso de formación
